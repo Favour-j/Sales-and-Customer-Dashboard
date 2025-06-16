@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project features two interactive Tableau dashboards — **Sales Dashboard** and **Customer Dashboard** — built using retail sales data. The dashboards are designed to help stakeholders quickly understand sales performance, trends, and customer behavior over time. This project demonstrates practical business intelligence skills in a simulated real-world setting.
+This project features two interactive Tableau dashboards — **Sales Dashboard** and **Customer Dashboard** — built using retail sales data. This dashboard helps the sales department understand customer behavior, regional performance, and sales trends to inform marketing and product strategy.”
 
 ---
 
