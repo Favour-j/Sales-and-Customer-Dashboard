@@ -77,7 +77,7 @@ Built with **Tableau Desktop**, these dashboards are designed for simplicity, in
 
 ### 🛍️ Product Concentration
 
-* **Top 10 SKUs** account for over 45% of total revenue.
+* **Top 10 SKUs (Stock Keeping Units)** account for over 45% of total revenue.
 * Long-tail products contribute minimal sales.
 
 > **Recommendation:** Focus marketing and stock levels on high-impact SKUs to maximize ROI.
